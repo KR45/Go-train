@@ -9,12 +9,12 @@ For initializing go settings use
 
 ```
 go init mod <name of application>
-
 ```
 
 For making it run use 
 
 ```
- go run main.go or <file name>
- 
+go run main.go or <file name>
 ```
+
+
