@@ -1,6 +1,7 @@
 # Go-training
 
-<img src =https://www.nixsolutions.com/uploads/2020/07/Golang.png width=540>
+
+![Golang-removebg-preview](https://user-images.githubusercontent.com/36817376/160267827-6b009d82-9400-4a84-a349-c0f641a09481.png)
 
 This repo contain a mini project in Go language 
 
